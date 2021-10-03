@@ -22,7 +22,6 @@ I used python as the programing lenguage and the arcade library to create the GU
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I need to make the game to be able to shoot more than one bullet at the time.
 * I need to be able to produce more than one zombie at the time.
 * I need to add sounds to the game.
