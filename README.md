@@ -6,7 +6,7 @@ You can shoot your weapon by clicking the left button of the mouse. Shoot and ki
 I created this software for two reasons. I which to continue to develop this game further to become entretaining for people.
 The secound reason is because I wanted to challange myself to create a game with GUI by myself.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0k3HCpMbBME)
 
 # Development Environment
 
