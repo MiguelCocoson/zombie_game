@@ -26,7 +26,7 @@ class GameView(arcade.Window):
         #Initial position of the bullet.
 
         self.shoot_x = 0
-        self.shoot_y = -100
+        self.shoot_y = -500
 
         #Speed that the player can move.
 
@@ -82,7 +82,7 @@ class GameView(arcade.Window):
             self.zombie_x = 1920
             self.zombie_y = random.randint(0, 500)
             self.shoot_x = 0
-            self.shoot_y = -100
+            self.shoot_y = -500
 
         #Concequence of the zombie leaving the scenerio.
         
